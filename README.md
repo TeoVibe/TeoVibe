@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @TeoVibe
-- 👀 I’m interested in Unity Development & Deployment, LLM applications, Blockchain, and Web Application Security.
+- 👀 I’m interested in Web Development, Unity, LLMs & Blockchain.
 - 🌱 I’m currently working on an online game where players have to pretend to be AI to avoid the Terminator!
 
 <!---
