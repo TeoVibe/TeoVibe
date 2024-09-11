@@ -5,7 +5,7 @@
 My dockerhub:
 https://hub.docker.com/u/teocholakov
 
-If you're a potential employer reach out to the provided contact credentials so I can share my relevant private repos with you.
+If you're a potential employer reach out to the provided contact details so I can share my relevant private repos with you.
 <!---
 TeoVibe/TeoVibe is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
