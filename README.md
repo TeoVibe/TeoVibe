@@ -4,8 +4,8 @@
 DockerHub:
 https://hub.docker.com/u/teocholakov
 
-Runpod template for deploying llamacpp for Unity:
-https://www.runpod.io/console/explore/08cls01ac9
+Runpod template for deploying llamacpp & Stable Diffusion Automatic1111 server for Unity:
+https://www.runpod.io/console/explore/07cky3lznr
 
 <!---
 TeoVibe/TeoVibe is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
